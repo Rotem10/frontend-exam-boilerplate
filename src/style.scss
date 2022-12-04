@@ -10,4 +10,15 @@
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
 }
-
+form {
+  div {
+    margin: 20px;
+  }
+}
+h1,
+p {
+  margin-left: 20px;
+}
+td {
+  width: fit-content;
+}
